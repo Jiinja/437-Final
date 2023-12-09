@@ -1,0 +1,604 @@
+electrical
+Fitting took 0.13127803802490234 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  0,  error : 6475.071776757887
+Predict frame took 0.0 seconds
+Train - depth :  0,  error : 8731.37253570363
+Fitting took 0.2592291831970215 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  1,  error : 6050.834249122013
+Predict frame took 0.0 seconds
+Train - depth :  1,  error : 7055.0398562994105
+Fitting took 0.39321303367614746 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  2,  error : 5707.593962807849
+Predict frame took 0.0005030632019042969 seconds
+Train - depth :  2,  error : 6215.024133709016
+Fitting took 0.5291330814361572 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  3,  error : 5275.230107955151
+Predict frame took 0.000499725341796875 seconds
+Train - depth :  3,  error : 5286.134376724132
+Fitting took 0.7208495140075684 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  4,  error : 5040.059780074049
+Predict frame took 0.0005006790161132812 seconds
+Train - depth :  4,  error : 4350.860970303215
+Fitting took 0.920928955078125 seconds
+Predict frame took 0.0004990100860595703 seconds
+Test  - depth :  5,  error : 4433.4105726259195
+Predict frame took 0.0005009174346923828 seconds
+Train - depth :  5,  error : 3433.7640222345312
+Fitting took 1.176243543624878 seconds
+Predict frame took 0.0004992485046386719 seconds
+Test  - depth :  6,  error : 4414.757082794784
+Predict frame took 0.00099945068359375 seconds
+Train - depth :  6,  error : 2630.3030860373065
+Fitting took 1.436169147491455 seconds
+Predict frame took 0.0005009174346923828 seconds
+Test  - depth :  7,  error : 4892.791759421184
+Predict frame took 0.0010001659393310547 seconds
+Train - depth :  7,  error : 1920.6302328026106
+Fitting took 1.6918048858642578 seconds
+Predict frame took 0.0005030632019042969 seconds
+Test  - depth :  8,  error : 4769.887775344416
+Predict frame took 0.0009999275207519531 seconds
+Train - depth :  8,  error : 1433.3474956932275
+Fitting took 2.004275321960449 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  9,  error : 4726.321394512824
+Predict frame took 0.0010035037994384766 seconds
+Train - depth :  9,  error : 1083.3255865454125
+Fitting took 2.303241729736328 seconds
+Predict frame took 0.0010027885437011719 seconds
+Test  - depth : 10,  error : 4758.787331373445
+Predict frame took 0.0015017986297607422 seconds
+Train - depth : 10,  error : 743.2709140613316
+Fitting took 2.706760883331299 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 11,  error : 4483.264783805842
+Predict frame took 0.001497030258178711 seconds
+Train - depth : 11,  error : 499.00598876242077
+Fitting took 2.9558522701263428 seconds
+Predict frame took 0.0010001659393310547 seconds
+Test  - depth : 12,  error : 4501.960505513274
+Predict frame took 0.0014998912811279297 seconds
+Train - depth : 12,  error : 331.08159555554477
+Fitting took 3.3179519176483154 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 13,  error : 4500.808828529497
+Predict frame took 0.0009999275207519531 seconds
+Train - depth : 13,  error : 200.3986753578742
+Fitting took 3.469217300415039 seconds
+Predict frame took 0.0010154247283935547 seconds
+Test  - depth : 14,  error : 4482.815966741139
+Predict frame took 0.001999378204345703 seconds
+Train - depth : 14,  error : 129.03453691435107
+Fitting took 3.833345890045166 seconds
+Predict frame took 0.0005002021789550781 seconds
+Test  - depth : 15,  error : 4603.91791289968
+Predict frame took 0.002004384994506836 seconds
+Train - depth : 15,  error : 76.1324298509701
+Fitting took 4.077860116958618 seconds
+Predict frame took 0.0004966259002685547 seconds
+Test  - depth : 16,  error : 4748.570144854932
+Predict frame took 0.0019991397857666016 seconds
+Train - depth : 16,  error : 46.191259265868574
+Fitting took 4.209550619125366 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 17,  error : 4750.097711758231
+Predict frame took 0.0025055408477783203 seconds
+Train - depth : 17,  error : 24.168449961394593
+Fitting took 4.452170133590698 seconds
+Predict frame took 0.0009996891021728516 seconds
+Test  - depth : 18,  error : 4766.8296972813505
+Predict frame took 0.002009153366088867 seconds
+Train - depth : 18,  error : 13.787251545382706
+Fitting took 4.6433210372924805 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 19,  error : 4769.296362447619
+Predict frame took 0.0025055408477783203 seconds
+Train - depth : 19,  error : 8.85755072153859
+Fitting took 4.5295116901397705 seconds
+Predict frame took 0.0 seconds
+Test  - depth : 20,  error : 4767.737960145675
+Predict frame took 0.0020041465759277344 seconds
+Train - depth : 20,  error : 6.151471172244485
+Fitting took 4.851176500320435 seconds
+Predict frame took 0.0004994869232177734 seconds
+Test  - depth : 21,  error : 4775.918263935652
+Predict frame took 0.002002716064453125 seconds
+Train - depth : 21,  error : 4.080443939011036
+Fitting took 4.9848408699035645 seconds
+Predict frame took 0.0010075569152832031 seconds
+Test  - depth : 22,  error : 4769.638146443776
+Predict frame took 0.0025048255920410156 seconds
+Train - depth : 22,  error : 1.8685585958140924
+Fitting took 4.914555549621582 seconds
+Predict frame took 0.0010035037994384766 seconds
+Test  - depth : 23,  error : 4771.656269360269
+Predict frame took 0.002006053924560547 seconds
+Train - depth : 23,  error : 0.3547889815516806
+Fitting took 4.774989128112793 seconds
+Predict frame took 0.0015077590942382812 seconds
+Test  - depth : 24,  error : 4769.195287878787
+Predict frame took 0.0024976730346679688 seconds
+Train - depth : 24,  error : 0.0882865807429871
+Fitting took 4.833055019378662 seconds
+Predict frame took 0.0010030269622802734 seconds
+Test  - depth : 25,  error : 4770.743602693603
+Predict frame took 0.0025000572204589844 seconds
+Train - depth : 25,  error : 0.01491028556987617
+Fitting took 4.890276670455933 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 26,  error : 4771.243939393939
+Predict frame took 0.0025146007537841797 seconds
+Train - depth : 26,  error : 0.0011372251705837756
+Fitting took 4.987458229064941 seconds
+Predict frame took 0.000499725341796875 seconds
+Test  - depth : 27,  error : 4770.721212121212
+Predict frame took 0.0020003318786621094 seconds
+Train - depth : 27,  error : 0.0
+Fitting took 4.710274934768677 seconds
+Predict frame took 0.0010035037994384766 seconds
+Test  - depth : 28,  error : 4770.721212121212
+Predict frame took 0.0025103092193603516 seconds
+Train - depth : 28,  error : 0.0
+Fitting took 4.849971771240234 seconds
+Predict frame took 0.0009996891021728516 seconds
+Test  - depth : 29,  error : 4770.721212121212
+Predict frame took 0.002292633056640625 seconds
+Train - depth : 29,  error : 0.0
+thermal
+Fitting took 0.12154030799865723 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  0,  error : 88225.19012185665
+Predict frame took 0.0 seconds
+Train - depth :  0,  error : 83115.80840108838
+Fitting took 0.2600395679473877 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  1,  error : 77579.98281666382
+Predict frame took 0.0010025501251220703 seconds
+Train - depth :  1,  error : 75241.13426250343
+Fitting took 0.3864707946777344 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  2,  error : 68948.93592368386
+Predict frame took 0.0005042552947998047 seconds
+Train - depth :  2,  error : 66854.49202398091
+Fitting took 0.5348901748657227 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  3,  error : 57257.28149498692
+Predict frame took 0.0005021095275878906 seconds
+Train - depth :  3,  error : 55101.09861960686
+Fitting took 0.7119729518890381 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  4,  error : 56529.45288793246
+Predict frame took 0.0015058517456054688 seconds
+Train - depth :  4,  error : 48367.18244168118
+Fitting took 0.8728241920471191 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  5,  error : 57088.11105078305
+Predict frame took 0.0004994869232177734 seconds
+Train - depth :  5,  error : 40919.68332059058
+Fitting took 1.1015832424163818 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  6,  error : 60925.33170964233
+Predict frame took 0.0004999637603759766 seconds
+Train - depth :  6,  error : 33466.5998115292
+Fitting took 1.3327372074127197 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  7,  error : 58311.26823587011
+Predict frame took 0.0010001659393310547 seconds
+Train - depth :  7,  error : 26997.312262039453
+Fitting took 1.5864834785461426 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  8,  error : 57047.06684413033
+Predict frame took 0.0009999275207519531 seconds
+Train - depth :  8,  error : 20995.19759235204
+Fitting took 1.8354065418243408 seconds
+Predict frame took 0.0010025501251220703 seconds
+Test  - depth :  9,  error : 53007.130921942764
+Predict frame took 0.0015027523040771484 seconds
+Train - depth :  9,  error : 16102.919284821844
+Fitting took 2.12929630279541 seconds
+Predict frame took 0.0005009174346923828 seconds
+Test  - depth : 10,  error : 53634.69330680786
+Predict frame took 0.0009982585906982422 seconds
+Train - depth : 10,  error : 12984.884010342868
+Fitting took 2.4807276725769043 seconds
+Predict frame took 0.0005078315734863281 seconds
+Test  - depth : 11,  error : 50746.22159866743
+Predict frame took 0.001996278762817383 seconds
+Train - depth : 11,  error : 9574.284095820882
+Fitting took 2.677513837814331 seconds
+Predict frame took 0.0005002021789550781 seconds
+Test  - depth : 12,  error : 51085.005095751134
+Predict frame took 0.0015020370483398438 seconds
+Train - depth : 12,  error : 7278.557487133583
+Fitting took 3.002835273742676 seconds
+Predict frame took 0.0004985332489013672 seconds
+Test  - depth : 13,  error : 50639.72107532487
+Predict frame took 0.001999378204345703 seconds
+Train - depth : 13,  error : 5876.068562740045
+Fitting took 3.312793254852295 seconds
+Predict frame took 0.0005009174346923828 seconds
+Test  - depth : 14,  error : 49845.78427520861
+Predict frame took 0.0020062923431396484 seconds
+Train - depth : 14,  error : 4524.885309788091
+Fitting took 3.4368538856506348 seconds
+Predict frame took 0.0010027885437011719 seconds
+Test  - depth : 15,  error : 50227.578637423365
+Predict frame took 0.002003192901611328 seconds
+Train - depth : 15,  error : 3327.5190512951567
+Fitting took 3.7296736240386963 seconds
+Predict frame took 0.0015082359313964844 seconds
+Test  - depth : 16,  error : 51026.03847729096
+Predict frame took 0.0019998550415039062 seconds
+Train - depth : 16,  error : 2382.0091347133803
+Fitting took 4.019368886947632 seconds
+Predict frame took 0.0010008811950683594 seconds
+Test  - depth : 17,  error : 50766.1461453621
+Predict frame took 0.002001047134399414 seconds
+Train - depth : 17,  error : 1667.4176769417918
+Fitting took 4.123908042907715 seconds
+Predict frame took 0.0010025501251220703 seconds
+Test  - depth : 18,  error : 51146.22407453392
+Predict frame took 0.0020055770874023438 seconds
+Train - depth : 18,  error : 1160.1898274241503
+Fitting took 4.26002836227417 seconds
+Predict frame took 0.0010068416595458984 seconds
+Test  - depth : 19,  error : 51039.07997922141
+Predict frame took 0.002496004104614258 seconds
+Train - depth : 19,  error : 670.4141861084524
+Fitting took 4.30230712890625 seconds
+Predict frame took 0.001001596450805664 seconds
+Test  - depth : 20,  error : 51539.28381792231
+Predict frame took 0.002504110336303711 seconds
+Train - depth : 20,  error : 333.6771757319908
+Fitting took 4.611047983169556 seconds
+Predict frame took 0.0015056133270263672 seconds
+Test  - depth : 21,  error : 51394.86834061952
+Predict frame took 0.0025076866149902344 seconds
+Train - depth : 21,  error : 194.22017554423152
+Fitting took 4.6579272747039795 seconds
+Predict frame took 0.00099945068359375 seconds
+Test  - depth : 22,  error : 51344.186096010424
+Predict frame took 0.0019991397857666016 seconds
+Train - depth : 22,  error : 73.96258949874152
+Fitting took 4.701752185821533 seconds
+Predict frame took 0.0010001659393310547 seconds
+Test  - depth : 23,  error : 51252.79015526941
+Predict frame took 0.002499818801879883 seconds
+Train - depth : 23,  error : 26.482712489253142
+Fitting took 4.72116494178772 seconds
+Predict frame took 0.0010001659393310547 seconds
+Test  - depth : 24,  error : 51247.04428390425
+Predict frame took 0.002003908157348633 seconds
+Train - depth : 24,  error : 4.942748493292559
+Fitting took 4.981042861938477 seconds
+Predict frame took 0.0009996891021728516 seconds
+Test  - depth : 25,  error : 51262.71380681892
+Predict frame took 0.002506732940673828 seconds
+Train - depth : 25,  error : 0.7182969772526179
+Fitting took 4.921266078948975 seconds
+Predict frame took 0.0009999275207519531 seconds
+Test  - depth : 26,  error : 51260.8241374544
+Predict frame took 0.0020084381103515625 seconds
+Train - depth : 26,  error : 0.09600101823748507
+Fitting took 4.932098150253296 seconds
+Predict frame took 0.001003265380859375 seconds
+Test  - depth : 27,  error : 51263.02201006556
+Predict frame took 0.0025033950805664062 seconds
+Train - depth : 27,  error : 0.009319868316294748
+Fitting took 5.048229455947876 seconds
+Predict frame took 0.00099945068359375 seconds
+Test  - depth : 28,  error : 51263.02201006556
+Predict frame took 0.0025069713592529297 seconds
+Train - depth : 28,  error : 0.002281490989135871
+Fitting took 4.896118640899658 seconds
+Predict frame took 0.0009999275207519531 seconds
+Test  - depth : 29,  error : 51263.02201006556
+Predict frame took 0.002499818801879883 seconds
+Train - depth : 29,  error : 7.861647190045687e-06
+cooling
+Fitting took 0.12105846405029297 seconds
+Predict frame took 0.0005002021789550781 seconds
+Test  - depth :  0,  error : 382.560077160659
+Predict frame took 0.0 seconds
+Train - depth :  0,  error : 481.402277566739
+Fitting took 0.24324584007263184 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  1,  error : 347.661461028615
+Predict frame took 0.0004987716674804688 seconds
+Train - depth :  1,  error : 432.1182984935932
+Fitting took 0.37451624870300293 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  2,  error : 393.58666555157373
+Predict frame took 0.0004982948303222656 seconds
+Train - depth :  2,  error : 379.05028244589994
+Fitting took 0.5253841876983643 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  3,  error : 500.14904911116264
+Predict frame took 0.0 seconds
+Train - depth :  3,  error : 317.91944712483615
+Fitting took 0.6755669116973877 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  4,  error : 560.7099577270936
+Predict frame took 0.0004992485046386719 seconds
+Train - depth :  4,  error : 258.02813669103443
+Fitting took 0.849123477935791 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  5,  error : 560.1465533757464
+Predict frame took 0.001003265380859375 seconds
+Train - depth :  5,  error : 221.52802077143207
+Fitting took 1.0619075298309326 seconds
+Predict frame took 0.0004992485046386719 seconds
+Test  - depth :  6,  error : 559.5510812796759
+Predict frame took 0.0009975433349609375 seconds
+Train - depth :  6,  error : 186.9765975120067
+Fitting took 1.2491388320922852 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  7,  error : 548.6892586697106
+Predict frame took 0.0009968280792236328 seconds
+Train - depth :  7,  error : 161.0431094197386
+Fitting took 1.5500690937042236 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  8,  error : 540.5227725802343
+Predict frame took 0.0020055770874023438 seconds
+Train - depth :  8,  error : 133.27195016687259
+Fitting took 1.789830207824707 seconds
+Predict frame took 0.0005037784576416016 seconds
+Test  - depth :  9,  error : 540.5767534684527
+Predict frame took 0.0014984607696533203 seconds
+Train - depth :  9,  error : 112.46870359096668
+Fitting took 2.0851192474365234 seconds
+Predict frame took 0.0010030269622802734 seconds
+Test  - depth : 10,  error : 539.0188831093021
+Predict frame took 0.0015056133270263672 seconds
+Train - depth : 10,  error : 88.75380548354217
+Fitting took 2.3364274501800537 seconds
+Predict frame took 0.0004994869232177734 seconds
+Test  - depth : 11,  error : 540.1874713816615
+Predict frame took 0.0009999275207519531 seconds
+Train - depth : 11,  error : 69.88903949882894
+Fitting took 2.6532344818115234 seconds
+Predict frame took 0.0005006790161132812 seconds
+Test  - depth : 12,  error : 546.5649591442634
+Predict frame took 0.0009996891021728516 seconds
+Train - depth : 12,  error : 51.84040097918696
+Fitting took 2.8821537494659424 seconds
+Predict frame took 0.0010039806365966797 seconds
+Test  - depth : 13,  error : 553.0320111786958
+Predict frame took 0.0015025138854980469 seconds
+Train - depth : 13,  error : 39.01416082971982
+Fitting took 3.1702818870544434 seconds
+Predict frame took 0.0015072822570800781 seconds
+Test  - depth : 14,  error : 565.9309160561895
+Predict frame took 0.0017247200012207031 seconds
+Train - depth : 14,  error : 30.549807834740317
+Fitting took 3.411827564239502 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 15,  error : 568.3220194360915
+Predict frame took 0.0025053024291992188 seconds
+Train - depth : 15,  error : 22.359534741507723
+Fitting took 3.7280685901641846 seconds
+Predict frame took 0.0 seconds
+Test  - depth : 16,  error : 583.8153237489922
+Predict frame took 0.0020036697387695312 seconds
+Train - depth : 16,  error : 16.22748967485592
+Fitting took 3.873324394226074 seconds
+Predict frame took 0.0010035037994384766 seconds
+Test  - depth : 17,  error : 594.2631985330158
+Predict frame took 0.0014994144439697266 seconds
+Train - depth : 17,  error : 11.745415049700078
+Fitting took 4.147099494934082 seconds
+Predict frame took 0.0010044574737548828 seconds
+Test  - depth : 18,  error : 600.6755124893814
+Predict frame took 0.0020074844360351562 seconds
+Train - depth : 18,  error : 8.227222114244876
+Fitting took 4.249971628189087 seconds
+Predict frame took 0.0009989738464355469 seconds
+Test  - depth : 19,  error : 605.1739725821753
+Predict frame took 0.0025000572204589844 seconds
+Train - depth : 19,  error : 5.938810405599469
+Fitting took 4.376241207122803 seconds
+Predict frame took 0.0004990100860595703 seconds
+Test  - depth : 20,  error : 605.4837604489915
+Predict frame took 0.0019989013671875 seconds
+Train - depth : 20,  error : 4.007790114679258
+Fitting took 4.47420072555542 seconds
+Predict frame took 0.00099945068359375 seconds
+Test  - depth : 21,  error : 605.4031975690639
+Predict frame took 0.002517223358154297 seconds
+Train - depth : 21,  error : 2.6720663575475965
+Fitting took 4.69161319732666 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 22,  error : 605.7544753140401
+Predict frame took 0.0025060176849365234 seconds
+Train - depth : 22,  error : 1.655404005061722
+Fitting took 4.678016185760498 seconds
+Predict frame took 0.0005006790161132812 seconds
+Test  - depth : 23,  error : 607.1207076635021
+Predict frame took 0.0020041465759277344 seconds
+Train - depth : 23,  error : 1.135645634225078
+Fitting took 4.697919845581055 seconds
+Predict frame took 0.0005049705505371094 seconds
+Test  - depth : 24,  error : 608.2465022983561
+Predict frame took 0.002509593963623047 seconds
+Train - depth : 24,  error : 0.8033223939992041
+Fitting took 4.724039077758789 seconds
+Predict frame took 0.0010001659393310547 seconds
+Test  - depth : 25,  error : 608.3263074820761
+Predict frame took 0.0025017261505126953 seconds
+Train - depth : 25,  error : 0.45844262749355913
+Fitting took 4.981196880340576 seconds
+Predict frame took 0.0005016326904296875 seconds
+Test  - depth : 26,  error : 608.225348070251
+Predict frame took 0.0020067691802978516 seconds
+Train - depth : 26,  error : 0.2840346244586694
+Fitting took 4.897591829299927 seconds
+Predict frame took 0.0009996891021728516 seconds
+Test  - depth : 27,  error : 608.6211179423558
+Predict frame took 0.0020067691802978516 seconds
+Train - depth : 27,  error : 0.17035333242841422
+Fitting took 5.030774831771851 seconds
+Predict frame took 0.0010085105895996094 seconds
+Test  - depth : 28,  error : 608.7104549661453
+Predict frame took 0.0025110244750976562 seconds
+Train - depth : 28,  error : 0.06425790595344612
+Fitting took 4.799801826477051 seconds
+Predict frame took 0.0010039806365966797 seconds
+Test  - depth : 29,  error : 608.8451329841216
+Predict frame took 0.0025031566619873047 seconds
+Train - depth : 29,  error : 0.01611969430944187
+heating
+Fitting took 0.12073707580566406 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  0,  error : 87960.68845949249
+Predict frame took 0.0 seconds
+Train - depth :  0,  error : 83003.99459605393
+Fitting took 0.2509441375732422 seconds
+Predict frame took 0.0005011558532714844 seconds
+Test  - depth :  1,  error : 77085.63179136995
+Predict frame took 0.0 seconds
+Train - depth :  1,  error : 74834.75895830408
+Fitting took 0.379443883895874 seconds
+Predict frame took 0.0005004405975341797 seconds
+Test  - depth :  2,  error : 69634.42318967804
+Predict frame took 0.0005004405975341797 seconds
+Train - depth :  2,  error : 66602.37833958415
+Fitting took 0.5224430561065674 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth :  3,  error : 63196.58720503619
+Predict frame took 0.0004990100860595703 seconds
+Train - depth :  3,  error : 57704.73145745463
+Fitting took 0.6767487525939941 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  4,  error : 62512.45374551937
+Predict frame took 0.0004990100860595703 seconds
+Train - depth :  4,  error : 48258.35476942101
+Fitting took 0.8548967838287354 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  5,  error : 56484.36889522471
+Predict frame took 0.0005002021789550781 seconds
+Train - depth :  5,  error : 41192.608451209795
+Fitting took 1.0882036685943604 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  6,  error : 56761.69394793998
+Predict frame took 0.001519918441772461 seconds
+Train - depth :  6,  error : 34132.03941370183
+Fitting took 1.294914960861206 seconds
+Predict frame took 0.0010023117065429688 seconds
+Test  - depth :  7,  error : 57693.64856168443
+Predict frame took 0.0010035037994384766 seconds
+Train - depth :  7,  error : 27390.044727751305
+Fitting took 1.5226752758026123 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  8,  error : 58125.79302334407
+Predict frame took 0.0010039806365966797 seconds
+Train - depth :  8,  error : 20715.63012885749
+Fitting took 1.8677406311035156 seconds
+Predict frame took 0.0 seconds
+Test  - depth :  9,  error : 57580.166136945954
+Predict frame took 0.0009999275207519531 seconds
+Train - depth :  9,  error : 16267.610114751467
+Fitting took 2.1439003944396973 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 10,  error : 57264.01110857099
+Predict frame took 0.0019986629486083984 seconds
+Train - depth : 10,  error : 13127.13281574665
+Fitting took 2.393662929534912 seconds
+Predict frame took 0.0005009174346923828 seconds
+Test  - depth : 11,  error : 54166.321645752905
+Predict frame took 0.0020093917846679688 seconds
+Train - depth : 11,  error : 10338.26648222129
+Fitting took 2.697862386703491 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 12,  error : 52735.702855490614
+Predict frame took 0.0019981861114501953 seconds
+Train - depth : 12,  error : 8487.627169379664
+Fitting took 3.021463394165039 seconds
+Predict frame took 0.0004994869232177734 seconds
+Test  - depth : 13,  error : 51861.15785468669
+Predict frame took 0.002000570297241211 seconds
+Train - depth : 13,  error : 6873.478930467701
+Fitting took 3.300018072128296 seconds
+Predict frame took 0.0004999637603759766 seconds
+Test  - depth : 14,  error : 51246.84060055437
+Predict frame took 0.0014984607696533203 seconds
+Train - depth : 14,  error : 5647.8532733708225
+Fitting took 3.517177104949951 seconds
+Predict frame took 0.0005002021789550781 seconds
+Test  - depth : 15,  error : 51031.843501118165
+Predict frame took 0.002006053924560547 seconds
+Train - depth : 15,  error : 4300.53757989303
+Fitting took 3.795006275177002 seconds
+Predict frame took 0.0005044937133789062 seconds
+Test  - depth : 16,  error : 51746.981218841014
+Predict frame took 0.0019998550415039062 seconds
+Train - depth : 16,  error : 3176.4235511937754
+Fitting took 3.8719775676727295 seconds
+Predict frame took 0.0005002021789550781 seconds
+Test  - depth : 17,  error : 52187.735677804434
+Predict frame took 0.0017800331115722656 seconds
+Train - depth : 17,  error : 2240.2466945953524
+Fitting took 4.095173120498657 seconds
+Predict frame took 0.0 seconds
+Test  - depth : 18,  error : 51212.00956938155
+Predict frame took 0.0020029544830322266 seconds
+Train - depth : 18,  error : 1759.1018698532212
+Fitting took 4.1245667934417725 seconds
+Predict frame took 0.0009982585906982422 seconds
+Test  - depth : 19,  error : 51684.339655320066
+Predict frame took 0.0015039443969726562 seconds
+Train - depth : 19,  error : 1368.9149838999542
+Fitting took 4.448762655258179 seconds
+Predict frame took 0.0015120506286621094 seconds
+Test  - depth : 20,  error : 51903.41639187361
+Predict frame took 0.0024988651275634766 seconds
+Train - depth : 20,  error : 1144.241578441342
+Fitting took 4.415100574493408 seconds
+Predict frame took 0.0005011558532714844 seconds
+Test  - depth : 21,  error : 51891.068397998315
+Predict frame took 0.002007007598876953 seconds
+Train - depth : 21,  error : 940.3931978016093
+Fitting took 4.443036794662476 seconds
+Predict frame took 0.0005061626434326172 seconds
+Test  - depth : 22,  error : 51662.83180630408
+Predict frame took 0.001999378204345703 seconds
+Train - depth : 22,  error : 775.6823489465279
+Fitting took 4.539256572723389 seconds
+Predict frame took 0.0009980201721191406 seconds
+Test  - depth : 23,  error : 51834.42489350824
+Predict frame took 0.0025026798248291016 seconds
+Train - depth : 23,  error : 490.60762560081014
+Fitting took 4.738587379455566 seconds
+Predict frame took 0.0010020732879638672 seconds
+Test  - depth : 24,  error : 51680.96064407213
+Predict frame took 0.0022554397583007812 seconds
+Train - depth : 24,  error : 299.5566052861755
+Fitting took 4.660536766052246 seconds
+Predict frame took 0.0010037422180175781 seconds
+Test  - depth : 25,  error : 51646.265928867266
+Predict frame took 0.0024995803833007812 seconds
+Train - depth : 25,  error : 126.5190448119565
+Fitting took 4.8402886390686035 seconds
+Predict frame took 0.00099945068359375 seconds
+Test  - depth : 26,  error : 51562.38597973969
+Predict frame took 0.0025064945220947266 seconds
+Train - depth : 26,  error : 59.3255315371684
+Fitting took 4.784438371658325 seconds
+Predict frame took 0.0012555122375488281 seconds
+Test  - depth : 27,  error : 51548.43343478067
+Predict frame took 0.002003192901611328 seconds
+Train - depth : 27,  error : 28.31655235015751
+Fitting took 4.7896363735198975 seconds
+Predict frame took 0.0005002021789550781 seconds
+Test  - depth : 28,  error : 51587.57909948379
+Predict frame took 0.0030210018157958984 seconds
+Train - depth : 28,  error : 9.104600047308937
+Fitting took 4.9111328125 seconds
+Predict frame took 0.0009996891021728516 seconds
+Test  - depth : 29,  error : 51590.17120175964
+Predict frame took 0.0025017261505126953 seconds
+Train - depth : 29,  error : 2.9706825285844274
